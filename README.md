@@ -3,7 +3,7 @@
 Prerequisites
 1. Postgres database already installed
 2. Install necessary module
-   a. 
+   a.  
 
 Objectives
 1. 
