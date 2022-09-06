@@ -1,4 +1,4 @@
-# ETL-projects-python-postgres
+# ETL Through Python Postgres Database
 
 ### Data Engineering Projects #1
 
